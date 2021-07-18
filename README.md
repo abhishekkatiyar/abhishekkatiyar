@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Katiyar</h1>
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Full Stack Engineer with React & Wix Velo Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkatiyar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkatiyar" /> </p>
